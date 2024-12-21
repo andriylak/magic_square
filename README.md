@@ -1,4 +1,4 @@
-matrix_symetry.py - checks whether the matrix symetric by the diagonal, antidiagonal, and central vertical line
+matrix_symetry.py - checks whether the matrix symetric by the diagonal, antidiagonal, and central vertical line. Returns 1, it it is symetric and 0 if it's not.
 
 MagicSquare.py - determine whether it is possible to replace the 0 in the input matrix with any integer to make the square magic. If so, returns the resulting magic square. If not, writes "Can't be magic".
 In the input matrix should be exactly one 0.
